@@ -10,7 +10,7 @@ We make **AGX**, an agent runtime that allows them to recover from their own mis
 
 Built on **Substrate**, our microVM hypervisor.
 
-[Home Page](https://agx.so) · [Documentation](https://docs.agx.so) · [Substrate](https://substrate.so)
+[Home Page](https://agx.so) · [Documentation](https://agx.so/docs) · [Substrate](https://substrate.so)
 
 ---
 
